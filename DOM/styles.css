@@ -1,4 +1,8 @@
-.paragraph{
-	padding-top:200px;
-	position: relative;
+.paragraph {
+  background-color: #2d5e8b;
+  float: left;
+  width: 100px;
+  height: 60px;
+  margin: 10px;
+  padding-top: 40px;
 }

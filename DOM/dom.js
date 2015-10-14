@@ -7,7 +7,7 @@ function clickytext() {
 }
 
 function changeColors(){
-    document.getElementById("ahoymatey").style.color = randomColors();
+    document.getElementById("ahoy").style.color = randomColors();
  
 }
 function randomColors() {
