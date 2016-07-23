@@ -9,7 +9,7 @@ $('#clickbox').click( function clickytext() {
     alert(input);
 });
 $("#color").mouseover(function(){
-    $("#color").css("color", "blue");
+    $("#color").toggleClass("blue");
 });
 
 console.log('here')
